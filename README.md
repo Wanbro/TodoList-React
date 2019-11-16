@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## To access this file, clone it and open it via your git command-line tool and when you are in the carshop-react folder run npm install and then enter npm start to run the project, this will launch the fully loaded project. (besides the default node modules, I have added material-Ui and react-table)
 
 In the project directory, you can run:
 
